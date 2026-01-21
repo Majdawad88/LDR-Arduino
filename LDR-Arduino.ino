@@ -1,4 +1,4 @@
-//git clone 
+//git clone https://github.com/Majdawad88/LDR-Arduino.git
 
 void setup() {
   Serial.begin(9600);
